@@ -22,6 +22,36 @@ A classic memory game built with HTML, CSS, and JavaScript! The Simon Game chall
 - **CSS**: For styling and creating an engaging interface.
 - **JavaScript**: For game logic, handling user interactions, and managing game states.
 
+## 📚 How to Play
+
+1. **Watch the Sequence**: The game will light up a color in a specific sequence.
+2. **Repeat the Sequence**: Click the colors in the same order.
+3. **Level Up**: Each round, the game adds a new color to the sequence, making it progressively harder to follow.
+4. **Keep Going**: Try to remember and repeat the sequence as it grows. How far can you go?
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to:
+
+- **Fork the project**
+- **Create a new branch** for any improvements
+- **Submit a pull request**
+
+For major changes, please open an issue first to discuss what you would like to change.  
+See the [issues page](../../issues) for more details.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## 💡 Acknowledgments
+
+- Inspired by the original Simon Game by Milton Bradley.
+- Thanks to online tutorials and documentation that helped in building the game logic.
+
+Enjoy the game, and happy coding!
+
+
 ## 🚀 Getting Started
 
 To run this game locally:
