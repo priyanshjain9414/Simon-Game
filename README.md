@@ -14,9 +14,7 @@ A classic memory game built with HTML, CSS, and JavaScript! The Simon Game chall
 
 ## 📸 Screenshots
 
-![Simon Game Screenshot](![Capture](https://github.com/user-attachments/assets/e44729a6-8070-4d0e-9086-67ac0b5a9df0)
-)  
-*Replace this with an actual link to your screenshot.*
+![Capture](https://github.com/user-attachments/assets/64265690-2ae7-4f9e-afeb-eb756be59b12)
 
 ## 🛠️ Technologies Used
 
