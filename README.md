@@ -1,10 +1,11 @@
 # Simon Game 🎶
+[Click here to play the game](https://priyanshjain9414.github.io/Simon-Game/)  
 
 A classic memory game built with HTML, CSS, and JavaScript! The Simon Game challenges your memory and pattern-recognition skills by requiring you to follow an ever-growing sequence of colors and sounds. Test your memory and see how many levels you can complete!
 
 ## 🕹️ Demo
 
-[Click here to play the game](https://priyanshjain9414.github.io/simon-game)  
+[Click here to play the game](https://priyanshjain9414.github.io/Simon-Game/)  
 
 ## 🎨 Features
 
